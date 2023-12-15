@@ -1,0 +1,4 @@
+click 
+spotipy 
+pandas 
+pydantic
