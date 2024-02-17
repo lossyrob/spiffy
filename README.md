@@ -16,7 +16,7 @@ column and don't mention they are featured in the track title.
 and then run:
 
 ```shell
-> spiffy -n "Chatbot Dreams of Electronica Sheep" path_to_playlist.csv
+> spiffy create-playlist -n "Chatbot Dreams of Electronica Sheep" path_to_playlist.csv
 ```
 
 This will create a playlist for your spotify account.
